@@ -22,3 +22,8 @@
     /* Support for IE. */
     font-feature-settings: 'liga';
   }
+
+  .col-md-12 {
+    display: block;
+    columns: 4;
+  }
